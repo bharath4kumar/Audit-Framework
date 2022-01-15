@@ -1,0 +1,8 @@
+export INFA_INT_SRVC_NAME="int_svc_cmn1_D"
+export INFA_DOMAIN_NAME="Domain_N01APU440_D"
+export INFA_USER_NAME="xeboshar"
+export PMPASSWORD="ck1JQY8lRCP/90jGMkcJHg=="
+export INFA_SECURITY_DOMAIN="Native"
+export V_Script_Log_Dir="/informat/infa_shared_V861/ScriptLogs/ERA"
+export V_Script_Dir="/informat/infa_shared_V861/Scripts/ERA"
+export V_TimeOut="${INFA_CLIENT_RESILIENCE_TIMEOUT:-180}"
